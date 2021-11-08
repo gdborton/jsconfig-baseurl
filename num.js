@@ -1,2 +1,2 @@
-const num = 5;
+const num = 7;
 export default num;
